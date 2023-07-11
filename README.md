@@ -1,8 +1,6 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=victorrochar&label=Profile%20views&color=0e75b6&style=flat" alt="victorrochar" /> </p>
 
-<h1>A maior parte dos projetos de estudo estão no meu grupo de estudos da faculdade:</h1>
-
-## A Equipe
+## A maior parte dos projetos de estudo estão no meu grupo de estudos da faculdade:
 A Program Dudes é uma equipe de desenvolvimento formada por universitários de Engenharia de Software
 
 [<img src="https://avatars.githubusercontent.com/u/136010433" width="100"/>![span](https://placehold.co/10x100/000000/000000.png)![span](https://placehold.co/220x100/FFFFFF/000000/png?text=Program%20dudes)](https://programdudes.github.io)
