@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F75711&repeat=false&random=false&width=90&lines=Olá 👋" alt="Typing SVG" /> <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F75711&random=false&width=200&lines=Hello;你好;Hola;Привет;Salut;こんにちは;Hallo;Ciao;안녕하세요 " alt="Typing SVG" /></a>
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F75711&repeat=false&width=90&lines=Ol%C3%A1+%F0%9F%91%8B" alt="Typing SVG" /> <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F75711&random=false&width=200&lines=Hello;你好;Hola;Привет;Salut;こんにちは;Hallo;Ciao;안녕하세요 " alt="Typing SVG" /></a>
 </div>
 
 ## Knowledge:
@@ -23,9 +23,3 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=victorrochar&show_icons=true&locale=pt-br&layout=compact" alt="victorrochar" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=victorrochar&show_icons=true&locale=en" alt="victorrochar" /></p>
-
-### Academic Group
-
-A Program Dudes é uma equipe de desenvolvimento formada por universitários de Engenharia de Software
-
-[<img src="https://avatars.githubusercontent.com/u/136010433" width="100"/>![span](https://placehold.co/10x100/000000/000000.png)![span](https://placehold.co/220x100/FFFFFF/000000/png?text=Program%20dudes)](https://programdudes.github.io)
