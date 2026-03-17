@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F75711&repeat=false&width=90&lines=Ol%C3%A1+%F0%9F%91%8B" alt="Typing SVG" /> <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F75711&width=200&lines=Hello;%E4%BD%A0%E5%A5%BD;Hola;%D0%9F%D1%80%D0%B8%D0%B2%D0%B5%D1%82;Salut;%E3%81%93%E3%82%93%E3%81%AB%E3%81%A1%E3%81%AF;Hallo;Ciao;%EC%95%88%EB%85%95%ED%95%98%EC%84%B8%EC%9A%94 " alt="Typing SVG" /></a>
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F75711&repeat=false&width=90&lines=Ol%C3%A1+%F0%9F%91%8B" alt="Typing SVG" /> <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F75711&width=200&lines=Hello;%E4%BD%A0%E5%A5%BD;Hola;%D0%9F%D1%80%D0%B8%D0%B2%D0%B5%D1%82;Salut;%E3%81%93%E3%82%93%E3%81%AB%E3%81%A1%E3%81%AF;Hallo;Ciao;%EC%95%88%EB%85%95%ED%95%98%EC%84%B8%EC%9A%94" alt="Typing SVG" /></a>
 </div>
 
 ## Knowledge:
